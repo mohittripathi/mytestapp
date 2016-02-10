@@ -2,3 +2,8 @@ $body-bg: #9b59b6;
 $navbar-default-bg: #e74c3c;
 $navbar-default-link-color: white;
 @import 'bootstrap';
+
+.navbar-brand
+{
+	font-weight: bold;
+}
